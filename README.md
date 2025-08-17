@@ -10,3 +10,4 @@ Requires actual mod preliminarily installed, duh.
 - Extract to root SPT folder (next to EscapeFromTarkov.exe) and run.
 - Manually delete files in "user\mods\WTT-Armory\db\CustomBotLoadouts\", I didn't bother cleaning up boss loadouts.
 - For other weapons, recompile the program using Visual Studio.
+- Please don't bother the actual WTT team it breaks something.
